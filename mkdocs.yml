@@ -1,19 +1,12 @@
 # Project information
-site_name: Tedeapolis wet en regelgeving
-site_url: 'https://wetboek.tedeapolis.nl/'
-site_description: 'Wet en regelgeving van Tedeapolis roleplay'
-site_author: 'Tedeapolis'
+site_name: Constantinopel RP wet en regelgeving
+site_url: 'https://wetboek.constantinopelRP.nl/'
+site_description: 'Wet en regelgeving van Constantinopel RP'
+site_author: 'Constantinopel RP'
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2021 Tedeapolis
+copyright: Copyright &copy; 2022 ConstantinopelRP
 
-# Repository
-repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
-repo_name: 'Tedeapolis/wet-en-regelgeving'
-edit_uri: 'https://github.com/Tedeapolis/wet-en-regelgeving/blob/master/docs/'
-
-# Google Analytics
-google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
 
 # Congiguration
 theme:
@@ -24,13 +17,13 @@ theme:
     - scheme: default
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: Gebruik dark modus
     - scheme: slate
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
-  favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.png
+        name: Gebruik light modus
+  favicon: img/logoConstant.png
+  logo: img/logoConstant.png
   custom_dir: docs/overrides
   language: nl
 plugins:
@@ -52,15 +45,10 @@ nav:
   - Algemene Plaatselijke Verordening: apv.md
   - Overval regels: overvallen.md
   - Wetboek: wetboek.md
-  - Risicogebieden: risico-gebieden.md
-  - NOTAM: notam.md
-  - Belastingen: belastingen.md
-  - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Tedeapolis: streamen.md
-  - Offroad Voertuigen: offroadvoertuigen.md
   - Kosten:
-    - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
     - ANWB: kosten/anwb.md
     - Politie: kosten/politie.md
-    - Vliegschool: kosten/vliegschool.md
+
+extra_css:
+  - stylesheets/extra.css
