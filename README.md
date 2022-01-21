@@ -1,4 +1,4 @@
-# Wet en regelgeving Tedeapolis
+# Wet en regelgeving Constantinopel
 
 ## Development
 
@@ -12,3 +12,5 @@ source .venv/bin/activate
 ```
 
 `git fetch origin pull/$ID/head:$BRANCHNAME`
+
+#### Bron: Tedeapolis
