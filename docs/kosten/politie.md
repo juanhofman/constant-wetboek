@@ -2,6 +2,13 @@
 
 De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worden worden gewijzigd
 
+!!! attention "LET OP"
+    De prijzen kunnen ten alle tijden worden worden gewijzigd
+
+!!! attention "LET OP"
+    De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://wetboek.Constantinopel.nl/wetboek/)
+
+
 ## Verkeers misdrijf
 
 |Feit|Boete bedrag|
@@ -143,9 +150,3 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Betreden van verboden militair domein tweede veroordeling | € 15000,- |
 | Betreden van verboden militair domein derde veroordeling | € 20000,- |
 | Zonder Vliegbrevet vliegen | € 75000,- |
-
-!!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
-
-!!! attention "LET OP"
-    De prijzen kunnen achterlopen met wat er in het wetboek staat beschreven. Kijk voor de actuele prijzen [hier](https://wetboek.tedeapolis.nl/wetboek/)

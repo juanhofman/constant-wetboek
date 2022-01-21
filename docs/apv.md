@@ -1,24 +1,24 @@
-# Algemene Plaatselijke Verordening Tedeapolis 2021
+# Algemene Plaatselijke Verordening Constantinopel 2022
 
-## Wetstechnische informatie
+## Informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis 2021 |
-| Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
-| Vastgesteld door          | De Hoge Raad|
+| Overheidsorganisatie      | Management Constantinopel |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Constantinopel 2022 |
+| Citeertitel               | Algemene Plaatselijke Verordening Constantinopel|
+| Vastgesteld door          | Management|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Constantinopel, vervangen door deze APV ter bevordering van de algemene regels in Constantinopel.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Tedeapolis.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op de stad Constantinopel.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -51,10 +51,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Tedeapolis (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
+1. Aanvullend op de APV is er het Wetboek Constantinopel (WCONST), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Constantinopel.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WCONST. Dan is deze leidend.
 3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 ## Overtredingen - Verstoring openbare orde (RP)
@@ -115,7 +115,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Wanneer je met meerdere mensen die op tedeapolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+7. Wanneer je met meerdere mensen die op Constantinopel spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
 9. Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
 10. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
@@ -157,7 +157,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
+3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig.
 4. De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”
 
 ### Artikel 11 - Value of Life
@@ -196,7 +196,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 15 - Reporting
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de TDA Discord.
+2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de Constantinopel Discord.
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie.
 
@@ -351,7 +351,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Bij een overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
 3. Bij herhaling van het overtreden van lid 1, zal er een straf van de 2e categorie volgen.
 4. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële of onofficiële gangs of personen, mits dit een geldige en logische reden heeft in de roleplay.
-5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Tedeapolis.
+5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Constantinopel.
 6. Bij overtreding van lid 4 & 5 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 7. Bij herhaling van het overtreden van lid 4 & 5, wordt er naast de straf van de 5e categorie ook een gang strike uitgedeeld.
 
@@ -444,7 +444,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 45 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+2. Wanneer je met meerdere mensen die op Constantinopel spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 3. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
@@ -601,4 +601,4 @@ Onderstaande regels tellen alleen op Narcopolis
 ![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Constantinopel”, opgetekend door Bram Mosterdfiets, te Constantinopel.
