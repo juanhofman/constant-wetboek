@@ -40,7 +40,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Constantinopel, vervangen doo
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het management en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
@@ -85,13 +85,12 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Constantinopel, vervangen doo
    - Het counteren van een overval wanneer er al roleplay gestart is tussen de politie en de overvallers die al ter plaatse zijn.
    - Het hebben van keybinds voor /me of /do acties
 
-
 ### Artikel 2 - Cheats
 
 1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
 2. Enkele voorbeelden hiervan zijn, onder andere, een crossair en/of cheats.
-3. Deze regel gelt ook voor de Discord client zelf, dus gebruik van clients als BetterDiscord is niet toegestaan.
-4. De hoge raad kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, En mag op basis hiervan een straf namens de 7e categorie uitdelen.
+3. Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als BetterDiscord is niet toegestaan.
+4. Het management kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, En mag op basis hiervan een straf namens de 7e categorie uitdelen.
 
 ### Artikel 3 - Exploits
 
@@ -99,7 +98,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Constantinopel, vervangen doo
 2. Wanneer het om bedragen gaat hoger dan €50.000,- zal de straf genoemd in lid 1 verhoogd worden naar de 6e categorie.
 3. Wanneer het om bedragen gaat hoger dan €100.000,- zal de straf genoemd in lid 1 en lid 2 verhoogd worden naar de 7e categorie.
 4. De bedragen zoals genoemd in lid 2 en lid 3 zijn ook van toepassing voor voorwerpen, hiervoor zal dan de waarde van deze voorwerpen worden getaxeerd. Taxering geschiedt hier op basis van catalogus of -marktwaarde.
-5. De bedragen en/of materialen zullen per direct teruggegeven worden aan de Hoge Raad. De Hoge Raad dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
+5. De bedragen en/of materialen zullen per direct teruggegeven worden aan het management. Het management dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
 6. Naast de in lid 1, 2 en 3 genoemde straffen zal de overtreder ook 25% van de waarde extra terug moeten betalen.
 
 ### Artikel 4 - Verstoring RP
@@ -111,14 +110,14 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Constantinopel, vervangen doo
 ### Artikel 5 - Meta-gaming
 
 1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
-2. Het feit beschreven in lid 1 staat bekend als “meta-gaming”
+2. Het feit beschreven in lid 1 staat bekend als “metagaming”
 3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 1e categorie.
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
-6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Wanneer je met meerdere mensen die op Constantinopel spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "metagaming" en zal worden bestraft worden met een straf van de 1e categorie
+7. Wanneer je met meerdere mensen die op Constantinopel spelen in een voice call zit is streamen niet toegestaan en moet je ge-deafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
-9. Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
+9. Om een overval scenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
 10. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
 
 ### Artikel 6 - Beroepskleding
@@ -190,7 +189,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van spelers verwacht de Nederlandse taal te beheersen. Indien iemand de Nederlandse taal niet beheerst is deze persoon niet welkom op de server.
 2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
-3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst.
+3. Tijdens een staff gesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, ambulance of ANWB) dient de persoon te allen tijde Nederlands te spreken indien de medewerker dit wenst.
 4. Bij een overtreding van de regel in lid 2 en 3 wordt de overtreder bestraft met een bestraffing van de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
@@ -204,10 +203,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 16 - Karakter breken
 
 1. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "admin", "ticket" en dergelijke.
-2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
+2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordening heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
 3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn.
 4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 1.
-5. Het foutief gebruiken van /looc dus om bijvoorbeeld te chatten, wordt bestratft met een minimale straf van de 1e categorie.
+5. Het foutief gebruiken van /me of /do dus om bijvoorbeeld te chatten, wordt bestraft met een minimale straf van de 1e categorie.
 
 ### Artikel 17 - Alt Characters
 
@@ -216,7 +215,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Hiernaast is het ook verboden om meer dan 3 alts aan te maken. Het aanmaken van meer dan 3 alts zal resulteren in het verwijderen van alle 3 de characters. Wanneer er geld overgezet is zal hiernaast ook de straf zoals beschreven in lid 5 gegeven worden.
 4. Het is niet toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je character bij de Overheid werkt.
 5. Indien de regel zoals beschreven in lid 2 of 4 overtreden wordt zal dit bestraft worden met een straf volgens de 8e categorie.
-6. Hoewel Alt Characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een ban van alle (alt) accounts.
+6. Hoewel Alt Characters toegestaan zijn, is het verboden om alt accounts te maken, of te multi-boxen met alt characters. Dit zal worden bestraft met een ban van alle (alt) accounts.
 
 ### Artikel 18 - Voertuigen in gebouwen
 
@@ -253,12 +252,12 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 23 - Cardealers/Carmeetings
 
 1. Een cardealer mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
-2. Een cardealer mag maximaal 10 voertuigen in hun “showroom” zetten.
-3. Een cardealer mag zich enkel vestigen op een, door justitie, aangewezen locatie.
+2. Een car dealer mag maximaal 10 voertuigen in hun “showroom” zetten.
+3. Een car dealer mag zich enkel vestigen op een, door justitie, aangewezen locatie.
 4. Een cardealer dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
 6. Tevens zullen alle voertuigen weggehaald worden middels /dvf.
-7. Bij Carmeetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
+7. Bij car meetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie.
 
 ## Overtredingen - Schade des persoons
 
@@ -267,7 +266,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e categorie.
 2. Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan ongeveer 125 km/u of op onverantwoorde wijze zal worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.
 3. De overtreding vermeld in het 1e lid en het 2e lid staat bekend als “VDM”
-4. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV, zal ook gestraft worden volgens de 1e categorie.
+4. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan tegen SUV, zal ook gestraft worden volgens de 1e categorie.
 5. Als een slachtoffer moedwillig aangereden wordt door een dader die boven de 30 km/u rijdt, zal er vanuit gegaan worden dat de dader de intentie heeft om het slachtoffer te vermoorden. Dit betekent echter niet dat alles onder de 30 km/u niet met de intentie om te vermoorden is en dit kan alsnog bestraft worden indien dit overduidelijk is met de intentie om iemand te vermoorden.
 
 ### Artikel 25 - RDM
@@ -326,7 +325,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 31 - Overval Regels
 
 1. Indien er een overval gestart is voordat een persoon het laadscherm geopend heeft is het voor deze politieagent niet toegestaan deel te nemen aan deze overval.
-2. Een uitzondering hierop geldt voor de leden van de dsi. Een lid mag koppelen aan een overval zodra hij/zij de eerste dsi melding over het scenario ingame heeft meegekregen.
+2. Een uitzondering hierop geldt voor de leden van de dsi. Een lid mag koppelen aan een overval zodra hij/zij de eerste dsi melding over het scenario in-game heeft meegekregen.
 3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 4. De regel van lid 1 en 2 is niet van toepassing indien een persoon minder dan 5 minuten geleden de server verlaten is. Dus bij bijvoorbeeld een crash.
 
@@ -348,17 +347,17 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 menu).
-2. Bij een overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
-3. Bij herhaling van het overtreden van lid 1, zal er een straf van de 2e categorie volgen.
-4. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële of onofficiële gangs of personen, mits dit een geldige en logische reden heeft in de roleplay.
-5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van de Hoge Raad van Constantinopel.
+1. Criminele organisaties mogen een maximaal ledenaantal hebben van 15 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens wordt gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 menu).
+2. Een roleplay scenario van/met een criminele organisatie mag maximaal bestaan uit 15 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
+3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
+4. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
+5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van het management van Constantinopel.
 6. Bij overtreding van lid 4 & 5 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 7. Bij herhaling van het overtreden van lid 4 & 5, wordt er naast de straf van de 5e categorie ook een gang strike uitgedeeld.
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
-1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal het management beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 ### Artikel 36 - Illegale activiteiten op Twitter
 
@@ -386,40 +385,41 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Een overduidelijke escort heeft.
         * Zoals: Een voertuig die er overduidelijk achteraan rijd, meerdere personen die in het voertuig zitten zonder de goeie handelingen uit te voeren of niet de correcte kleding aan hebben.
     * Een persoon die verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment rijd
-        * Zoals: alleen claxoneren bij een afleverpunt als je als ramen wasser rondrijd of dat je in een vuilniswagen het afval op een punt ophaalt door alleen te toeteren.
+        * Zoals: alleen claxonneren bij een afleverpunt als je als ramenwasser rondrijd of dat je in een vuilniswagen het afval op een punt ophaalt door alleen te toeteren.
 2. Witwassen mag enkel in de voertuigen die je krijgt van het depot.
-3. Een persoon herkennen uit het criminele circuit valt onder powergaming en is geen reden om diegene te overvallen.
+3. Een persoon herkennen uit het criminele circuit valt onder power gaming en is geen reden om diegene te overvallen.
 4. Een witwasser herkennen omdat hij rondom het startpunt rijdt valt onder powergaming.
 5. Iemand die een in een whitelisted job voertuig rijd met de gepaste kleding mag niet zomaar aan de kant gezet worden, dit valt onder powergaming.
 6. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
-7. De overvaller dient op het moment van overvallen beelden te kunnen overhandingen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal er een straf van de 2e categorie gegeven worden.
+7. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal er een straf van de 2e categorie gegeven worden.
 
 ### Artikel 39 - Officiële gang regels
 
 1. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
-2. Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
+2. Het is verboden om nepmeldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
 3. Op het moment dat een voertuig in beslag genomen word en in een opslag gezet word is het niet toegestaan om deze nog uit je garage te halen.
 4. Wanneer er 2 weken lang geen roleplay aan de inbeslagname gebonden word is het toegestaan om het voertuig weer gratis uit de garage te halen.
-5. Een gangoorlog kan verklaard worden door een van de 2 groepen (door gangbazen) wanneer daar een goede reden voor is. een oorlog is afgelopen wanneer:
-    * Hij langer dan 72 uur geduurd heeft.
-    * Alle leden eenmaal zijn overleden.
-    * Wanneer één van de 2 groepen zich overgeeft.
+5. Een gang oorlog kan verklaard worden door een van de 2 groepen (door gangbazen) wanneer daar een goede reden voor is. een oorlog is afgelopen wanneer:
+Hij langer dan 72 uur geduurd heeft.
+Alle leden eenmaal zijn overleden.
+Wanneer één van de 2 groepen zich overgeeft.
 6. Het overtreden van lid 1, 2, 3 of 4 zal resulteren in een straf van de 1e categorie.
 7. Het confisceren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden en bij een speler die levend is.
-8. Het confisceren van overheidsitems is niet toegestaan.
-9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hoge raad.
-10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gangstrikes.
+8. Het confisceren van overheids items is niet toegestaan.
+9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door het management.
+10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gang strikes.
 
 ## Overige bepalingen
 
 ### Artikel 40 - Bodycams
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
-    * Overheidsdiensten zijn uitgerust met bodycams.
-    * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycambeelden als bewijs willen gebruiken.
-    * Burgers kunnen alleen met hun telefoon filmen.
-    * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie [bijlage 1](/apv/#bijlage-1)
-2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
+   * Overheidsdiensten zijn uitgerust met bodycams.
+   * Medewerkers van alle overheidsdiensten zijn verplicht om de bodycams visueel te dragen als zij de bodycam beelden als bewijs willen gebruiken.
+   * Burgers kunnen alleen met hun telefoon filmen.
+   * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie bijlage 1
+2. De voorbeelden benoemd in lid 1 zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
+
 
 ### Artikel 41 - Journalistiek
 
@@ -435,17 +435,17 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
 2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent.
 3. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
-4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
+4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, baby stemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
 5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
 ### Artikel 44 - Streamsniping
 
-1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
+1. Stream sniping is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
 ### Artikel 45 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op Constantinopel spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+2. Wanneer je met meerdere mensen die op Constantinopel spelen in een voice call zit, is streamen niet toegestaan en moet je ge-deafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je ge-deafened/gemute bent, ben je dus ook in overtreding van deze regel.
 3. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
@@ -465,11 +465,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Jobhoppen
 
-1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
-2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
+1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van het management.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van het management.
 3. Bij overtreding van de feiten beschreven in lid 1 en/of lid 2 wordt een straf van de 1e categorie uitgedeeld en zal de desbetreffende persoon worden ontslagen en deze persoon dit beroep 7 kalenderdagen lang niet uitvoeren.
 4. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
-5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door de hogeraad.
+5. Bij herhaalde overtredingen van lid 1 en/of lid 2 en/of lid 4 zal het management van van de desbetreffende organisatie die de werknemer heeft aangenomen een passende sanctie worden opgelegd door het management.
 
 | Van | Naar | Wachttijd |
 | --- | --- | --- |
@@ -481,30 +481,30 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 50 - Deelname aan overheidsberoep
 
 1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
-2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
+2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheids beroep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
-4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
+4. Als een werkgever herhaaldelijk lid 1 overtreed zal het management zich buigen over een gepaste straf
 
 ### Artikel 51 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
-    * Schriftelijk toestemming voor is van de hogeraad.
+    * Schriftelijk toestemming voor is van het management.
     * Één persoon de leiding heeft bij deze groep.
     * Een aangewezen plek is voor de demonstratie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
-3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
+3. Mocht de demonstratie uit de hand lopen, en voldoet deze demonstratie wel aan lid 1, dan zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
 ### Artikel 52 - Borgtocht
 
 1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
 2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
 3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
-4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
+4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplay scenario worden teruggedraaid.
 
 ### Artikel 53 - Refunds
 
-1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
-2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
+1. Items worden niet ge-refund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
+2. Stacks aan items zoals drugs worden alleen ge-refund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
 ### Artikel 54 - Appartementen
@@ -515,43 +515,16 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 55 - Erotische Roleplay(ERP)
 
 1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
-2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
+2. Uitzondering van het feit genoemd in lid 1 zal binnen het management besproken moeten worden. Enkel voorbeeld hiervan:
     * Enkel dansen als stripper in de stripclub.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
-## Narcopolis
+### Artikel 54 - Samenwerking Officiële criminele organisaties
 
-Onderstaande regels tellen alleen op Narcopolis
+1. Criminele organisaties mogen met een maximum aantal van 15 personen een roleplay scenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële gangs, mits dit een geldige en logische reden heeft in de roleplay.
+2. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat, dit is ter beoordeling van het management van Constantinopel.
+3. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplay Scenario. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
-### Artikel N-1 - Schieten vanaf het vasteland en water
-
-1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
-2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
-3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
-4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
-
-### Artikel N-2 - Landen van helikopers/vliegtuigen
-
-1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
-3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
-
-### Artikel N-3 - Claimen van het eiland
-
-1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
-2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
-
-### Artikel N-4 - Campen van een niet actieve drugslocatie
-
-1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
-2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
-
-### Artikel N-5 - Samenwerking criminele organisaties
-
-1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
-2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
-3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
-4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
 ## Tijdelijke bepalingen
 
@@ -602,4 +575,4 @@ Onderstaande regels tellen alleen op Narcopolis
 ![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Constantinopel”, opgetekend door Bram Mosterdfiets, te Constantinopel.
+APV opgesteld uit naam van het management, bedoeld voor het eiland, de gemeente en de stad “Constantinopel”, opgetekend door Marnix Van Wemmingshoven, te Constantinopel.
