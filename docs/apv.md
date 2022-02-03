@@ -302,7 +302,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
-1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
+1. Het is voor een ambtenaar toegestaan dat zij zich bezig houden met criminele activiteiten, deze regel is niet van toepassing wanneer u politie agent bent.
 2. U bent als ambtenaar als je baan wordt weergegeven in het F10 menu.
 3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 5 en zal deze persoon ontslagen worden en deze persoon dit beroep een maand lang niet uitvoeren. Deze straf kan afwijken naar de ernst van de illegale bezigheden.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten en op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst. Dit geldt ook nadat de desbetreffende persoon ontslag heeft genomen of ontslagen is.
