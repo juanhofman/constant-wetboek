@@ -497,6 +497,7 @@
 3. Wordt een bestuurder in een voertuig met een W.O.K. status voor de tweede keer staande gehouden zal dit worden gezien als een misdrijf. Dit kan bestraft worden met in eerste instantie een boete en inbeslagname.
 4. Wordt een bestuurder bij een derde keer of vaker staande gehouden zal de sanctie van een boete en inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
 5. Een W.O.K. status is een status dat vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+6. Rijd de bestuurder in een voertuig en is het kenteken niet RDW geregistreerd, ook wel kentekenfraude genoemd, dan zal de bestuurder een boete riskeren en wordt het voertuig in beslag genomen. In deze is het aan de politie om het voertuig terug te herleiden naar de correcte eigenaar.
 
 #### Rijden met W.O.K status boetes
 
@@ -509,6 +510,7 @@
 | *Feit* | *boete* |
 |---|---|
 | Rijden zonder kentekenplaten | € 840,- |
+| Kentekenfraude | € 1650,- |
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 690,- |
 | Verlichting(NEON) onder het voertuig | € 690,- |
 | Rijden in een voertuig met een WOK-status | € 1200,- |
